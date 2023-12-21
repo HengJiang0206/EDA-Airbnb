@@ -1,4 +1,4 @@
-# EDA-Airbnb
+# Airbnb Arbitrage and NYC’s Rental Market: Exploratory Data Analysis and Visualization
 
 New York City is amid a housing crisis as demand for housing outpaces the city‘s supply. In fact, since 2020, the city’s supply has been steadily falling. Additionally, since 2022, the city’s rent has risen sharply alongside the housing decline. 
 
